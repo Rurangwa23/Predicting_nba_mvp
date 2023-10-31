@@ -1,5 +1,4 @@
-# Predicting_nba_mvp
-Certainly, here's a description for your README on GitHub to explain your NBA MVP prediction project:
+
 
 ---
 
